@@ -1,9 +1,14 @@
+<img src='./demo/MIXR.png' alt='MIXR'/>
+
 # 🧠 Safe Sessions
 
 **Safe Sessions** is a harm-reduction mobile app built with **React Native + Expo**.  
 It helps users **plan, track, and learn** about safer substance use sessions through friendly UI and educational content.
 
----
+<div style="display: flex; gap: 10px;">
+  <img src="./demo/ok_mode.PNG" alt="ok mode" style="width: 50%">
+  <img src="./demo//learning_mode.PNG" alt="learning mode" style="width: 50%">
+</div>
 
 ## ✨ Features
 
@@ -14,16 +19,12 @@ It helps users **plan, track, and learn** about safer substance use sessions thr
 - 💡 Learn about harm-reduction practices  
 - 💾 Local storage with AsyncStorage (data stays on your device)
 
----
-
 ## 🛠️ Tech Stack
 
 - [React Native](https://reactnative.dev/) (Expo)
 - [TypeScript](https://www.typescriptlang.org/)
 - [React Native Paper](https://callstack.github.io/react-native-paper/)
 - [AsyncStorage](https://github.com/react-native-async-storage/async-storage)
-
----
 
 ## 🚀 Getting Started
 
