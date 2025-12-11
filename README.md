@@ -6,8 +6,8 @@
 It helps users **plan, track, and learn** about safer substance use sessions through friendly UI and educational content.
 
 <div style="display: flex; gap: 10px;">
-  <img src="./demo/ok_mode.PNG" alt="ok mode" style="width: 50%">
-  <img src="./demo//learning_mode.PNG" alt="learning mode" style="width: 50%">
+  <img src="./demo/ok_mode.PNG" alt="ok mode" style="width: 49%">
+  <img src="./demo//learning_mode.PNG" alt="learning mode" style="width: 49%">
 </div>
 
 ## ✨ Features
